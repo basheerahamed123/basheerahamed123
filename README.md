@@ -1,10 +1,11 @@
-## Hi there 👋
-
-<<h1 align="center">Hi 👋, I'm Basheer Ahamed JR</h1>
-<h3 align="center">ERPNext Developer | Frappe Framework Specialist | DevOps | Automation Enthusiast | Java Full stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Basheer Ahamed JR</h1>
+<h3 align="center">
+ERPNext Developer | Frappe Framework Specialist | Java Full Stack Developer | 
+Spring Boot | AWS | DevOps | Automation Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=basheerahamed123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -12,22 +13,25 @@
 ## 🚀 About Me
 
 - 🔧 Hardcore ERPNext & Frappe Customization Developer
-- 🏭 Strong in Manufacturing, Stock & Batch Logic Implementation
-- 🐳 Experienced in Docker-based ERPNext Deployments
+- ☕ Java Full Stack Developer with Spring Boot Expertise
+- 🏭 Strong in Manufacturing, Stock & Advanced Batch Logic Implementation
+- 🐳 Experienced in Docker-based ERPNext & Java Deployments
 - 📊 Expert in Complex SQL Reporting & Performance Optimization
-- ☁️ Currently Learning AWS & Cloud Architecture
+- ☁️ Learning & Implementing AWS Cloud Architecture
 - 🤖 Building AI-Based Proctoring System (Face Recognition + Audio Monitoring)
-- 💡 Passionate about Automation, Clean Architecture & Scalable Systems
+- 💡 Passionate about Automation, Scalable Systems & Clean Architecture
 
 ---
 
 ## 🛠️ Core Expertise
 
-- ERPNext Custom Apps & Overrides
+- ERPNext Custom Apps & Framework Overrides
 - Serial & Batch Bundle Custom Logic
+- Java Spring Boot REST APIs
+- Microservices Architecture
 - Manufacturing & Stock Ledger Deep Understanding
 - Multi-Site Docker Setup (Production + Dev)
-- MariaDB Optimization & Query Tuning
+- MariaDB / MySQL Optimization & Query Tuning
 - REST API Integrations
 - Role-Based Workflow Customization
 
@@ -36,13 +40,15 @@
 ## 💻 Tech Stack
 
 ### 🔹 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,js,html,css,mysql,linux,git)](https://skillicons.dev)
 
 ### 🔹 ERP & Backend
 - Frappe Framework
 - ERPNext v14 / v15 / v16
 - Custom Doctypes & Server Scripts
 - Workflow Automation
+- Spring Boot REST APIs
+- JWT Authentication & Role Management
 
 ### 🔹 DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,nginx,ubuntu)](https://skillicons.dev)
@@ -52,24 +58,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basheerahamed123&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basheerahamed123&theme=tokyonight" height="170" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basheerahamed123&theme=react-dark)
 
 ---
 
 ## 🧠 Current Focus
 
-- Advanced AWS Deployment for ERPNext
-- Microservices Architecture
-- AI Monitoring Systems
-- Performance Scaling & Security Hardening
+- Advanced AWS Deployment (EC2, S3, RDS, IAM)
+- CI/CD Pipelines with Docker
+- Microservices Architecture with Spring Boot
+- AI Monitoring & Proctoring Systems
+- ERPNext Performance Scaling & Security Hardening
 
 ---
 
@@ -77,4 +84,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
-
