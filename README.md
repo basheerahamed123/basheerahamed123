@@ -59,8 +59,12 @@ Spring Boot | AWS | DevOps | Automation Enthusiast
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basheerahamed123&show_icons=true&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=basheerahamed123&theme=tokyonight" height="170"/>
 </p>
+
 
 
 ---
