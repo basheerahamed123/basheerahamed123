@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basheer Ahamed JR</h1>
+<h1 align="center">Basheer Ahamed JR</h1>
 <h3 align="center">
 ERPNext Developer | Frappe Framework Specialist | Java Full Stack Developer | 
 Spring Boot | AWS | DevOps | Automation Enthusiast
